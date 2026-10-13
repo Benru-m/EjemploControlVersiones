@@ -1,0 +1,17 @@
+---
+title: "Areas"
+author: "Rubén Sánchez Munuera"
+date: "2026-10-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Area del circulo
+
+```{r}
+r <- 2.5
+A_circulo <- pi*r^2
+```
