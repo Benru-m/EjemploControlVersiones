@@ -26,3 +26,9 @@ b <- 23
 h <- 3
 A_triangulo <- b*h/2
 ```
+## Area del rectangulo
+```{r}
+b <- 12
+a <- 4
+A_rectangulo <- b*a
+```
