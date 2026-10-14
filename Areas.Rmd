@@ -20,3 +20,9 @@ A_circulo <- pi*r^2
 l <- 3
 A_cuadrado <- l^2
 ```
+## Area del triangulo
+```{r}
+b <- 23
+h <- 3
+A_triangulo <- b*h/2
+```
