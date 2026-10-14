@@ -12,11 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Area del circulo
 
 ```{r}
-r <- 2.5
-A_circulo <- pi*r^2
+A_circulo <- function(r){
+  return(pi*r^2)
+  }
 ```
 ## Area del cuadrado
 ```{r}
-l <- 3
-A_cuadrado <- l^2
+A_cuadrado <- function(l){
+  return(l^2)
+}
 ```
