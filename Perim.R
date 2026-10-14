@@ -5,6 +5,6 @@ LongitudCircunf <- function(R){
   return(2*pi*R)
 }
 PerimetroRectangulo <- function(B,A){
-  return((B+A)*2)
+  return(2*(B+A))
 }
 pi <- 3.14159
