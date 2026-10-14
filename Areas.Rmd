@@ -34,3 +34,9 @@ A_rectangulo <- function(b,a){
   return(b*a)
 }
 ```
+### Area trapecio
+```{r}
+A_trapecio <- function(B,b,H){
+  return((B+b)*H/2)
+}
+```
