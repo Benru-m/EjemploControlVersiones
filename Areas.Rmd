@@ -40,3 +40,4 @@ A_trapecio <- function(B,b,H){
   return((B+b)*H/2)
 }
 ```
+

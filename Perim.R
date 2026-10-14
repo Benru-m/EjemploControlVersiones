@@ -4,3 +4,7 @@ PerimetroCuadrado <- function(L){
 LongitudCircunf <- function(R){
   return(2*pi*R)
 }
+PerimetroRectangulo <- function(B,A){
+  return(2*B+2*A)
+}
+pi <- 3.14159
